@@ -1,2 +1,3 @@
 virtual_env/
-stock_photo.png/
+stock_photo.png
+__pycache__
